@@ -1,1 +1,1 @@
-# using-styled-components-in-typescript
+# styled-components-in-typescript
